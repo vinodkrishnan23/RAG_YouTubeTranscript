@@ -25,5 +25,11 @@ uri="ENTER MONGODB CONNECTION STRING - CAN USE COMPASS ONE AS WELL"
 streamlit run main.py
 ```
 
+## Key in Youtube URL and question you want to ask
+```
+URL - https://www.youtube.com/watch?v=QvKMwLjdK-s
+Q - What is HNSW
+```
+
 
 
