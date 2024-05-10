@@ -1,5 +1,7 @@
 ## Pre-requisite
-Python3 must be installed <br />
+**Python3** must be installed <br />
+<br />
+Your need an **Open AI key**<br />
 <br />
 Create database in your cluster by name - **youtube** <br />
 <br />
