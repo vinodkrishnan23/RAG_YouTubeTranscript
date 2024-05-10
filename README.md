@@ -1,6 +1,24 @@
+## Pre-requisite
+Create database in your cluster by name - **youtube** <br />
+<br />
+Create collection in this database by name - **transcripts** <br />
+<br />
+Create a vector search index as per below definition on above collection by name **vector_index**<br />
+```
+{
+  "fields": [
+    {
+      "numDimensions": 1536,
+      "path": "embedding",
+      "similarity": "cosine",
+      "type": "vector"
+    }
+  ]
+}
+```
 ## Clone the Repository
 ```
-git clone _githuburl_
+git clone https://github.com/vinodkrishnan23/RAG_YouTubeTranscript.git
 cd RAG_YouTubeTranscript
 ```
 
