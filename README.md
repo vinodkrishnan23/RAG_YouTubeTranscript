@@ -1,4 +1,6 @@
 ## Pre-requisite
+Python3 must be installed <br />
+<br />
 Create database in your cluster by name - **youtube** <br />
 <br />
 Create collection in this database by name - **transcripts** <br />
@@ -45,8 +47,8 @@ streamlit run main.py
 
 ## Key in Youtube URL and question you want to ask
 ```
-URL - https://www.youtube.com/watch?v=QvKMwLjdK-s
-Q - What is HNSW
+Youtube URL - https://www.youtube.com/watch?v=QvKMwLjdK-s
+Question - What is HNSW
 ```
 
 
