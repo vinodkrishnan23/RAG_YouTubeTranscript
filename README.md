@@ -15,8 +15,8 @@ cd RAG_YouTubeTranscript
 
 ## Modify .env file to incorporate your open ai key and mongodb connection string
 ```
-OPENAI_API_KEY=""
-uri=""
+OPENAI_API_KEY="ENTER-YOUR-OPEN-AI-KEY"
+uri="ENTER MONGODB CONNECTION STRING - CAN USE COMPASS ONE AS WELL"
 ```
 
 ## Run the application
